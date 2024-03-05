@@ -5,7 +5,7 @@ I'm a software engineer passionate about building innovative solutions that make
 - 👀 I’m interested in exploring various aspects of technology, including web development, machine learning, and cloud computing.
 - 🌱 I’m currently learning more about advanced algorithms and data structures to enhance my problem-solving skills.
 - 💞️ I’m looking to collaborate on open-source projects where I can contribute my skills and learn from others in the community.
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/tanvipachkawade/) for any inquiries or just to connect!
+- 📫 You can reach out to me via [LinkedIn](linkedin.com/in/tanvi-pachkawade-76b5b4291) for any inquiries or just to connect!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid traveler and love exploring new destinations whenever I get the chance!
 
