@@ -2,7 +2,7 @@
 
 I'm a software engineer passionate about building innovative solutions that make a positive impact. Welcome to my GitHub profile! Here's a glimpse into who I am:
 
-- 👀 I’m interested in exploring various aspects of technology, including web development, machine learning, and cloud computing.
+- 👀 I’m interested in exploring various aspects of technology, including web development.
 - 🌱 I’m currently learning more about advanced algorithms and data structures to enhance my problem-solving skills.
 - 💞️ I’m looking to collaborate on open-source projects where I can contribute my skills and learn from others in the community.
 - 📫 You can reach out to me via [LinkedIn](linkedin.com/in/tanvi-pachkawade-76b5b4291) for any inquiries or just to connect!
